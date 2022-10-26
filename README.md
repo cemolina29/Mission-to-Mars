@@ -18,3 +18,5 @@ File ~\anaconda3\lib\site-packages\splinter\browser.py:92, in get_driver(driver,
      94         err = e
 
 TypeError: 'NoneType' object is not callable
+
+### I'm unable to figure the error, had a tutor and instructor look into it and had no luck. I'm moving on.
